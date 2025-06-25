@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.text.DecimalFormat;
 
-public class uts {
+public class review {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in); 
         DecimalFormat decimalFormat = new DecimalFormat("#.##");
